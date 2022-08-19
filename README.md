@@ -8,6 +8,6 @@
 - 📘 ISGA-rabat
 - ⛳ Positive Mind
 
-<div id="header" align="center" style="width:100%;height:0;padding-bottom:36%;position:relative;">
-  <img src="https://giphy.com/embed/AKjT5kDZMK4wsPXJPk" />
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
