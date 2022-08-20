@@ -97,7 +97,4 @@
 
 ---
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=julien-aw&show_icons=true&locale=en&layout=compact" alt="julien-aw" /></p>
-
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=julien-aw&" alt="julien-aw" /></p>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31u542bkxmkonowavgbuojtrh7pi&count=3)
