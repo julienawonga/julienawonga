@@ -82,13 +82,6 @@
   </a> 
 </p>
 
-<h3 align="center">Tools :</h3>
-<p align="center">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-</p>
-
 ---
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=julien-aw&show_icons=true&locale=en&layout=compact" alt="julien-aw" /></p>
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=julien-aw&" alt="julien-aw" /></p>
