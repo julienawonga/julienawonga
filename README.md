@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Julien AWON'GA <p align="center"> <img src="https://komarev.com/ghpvc/?username=julien-aw&label=Profile%20views&color=0e75b6&style=flat" alt="julien-aw" /> </p>
-<p align="center"> <a href="https://twitter.com/julienawon" target="blank"><img src="https://img.shields.io/twitter/follow/julienawon?logo=twitter&style=for-the-badge" alt="julienawon" /></a> </p>
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=26F746&width=500&height=100&lines=A+passionate+web+developer+;and+data+scientist+from+Morroco)](https://git.io/typing-svg)
