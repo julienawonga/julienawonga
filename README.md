@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **julienawon@outlook.com**
 <p  align="center">
-  &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=julien-aw&show_icons=true&locale=en" alt="julien-aw" />
+  &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=julienawon&show_icons=true&locale=en" alt="julien-aw" />
 </p>
 
 ---
