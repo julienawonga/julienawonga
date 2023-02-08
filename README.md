@@ -19,9 +19,8 @@
 - 💬 Ask me about **Laravel, Machine learning.**
 
 - 📫 How to reach me **julienawon@outlook.com**
-<p  align="center">
-  &nbsp;<img  src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julienawon&show_icons=true)" alt="julien-aw" />
-</p>
+- 
+![Julien's GitHub stats](https://github-readme-stats.vercel.app/api?username=julienawon&show_icons=true)
 
 ---
 
