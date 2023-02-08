@@ -69,7 +69,10 @@
   </a> 
 
 <div markdown="1">
- [![GitHub Streak](https://streak-stats.demolab.com?user=julienawon&theme=neon-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ - ici
+ - chch
 </div>
  
+ [![GitHub Streak](https://streak-stats.demolab.com?user=julienawon&theme=neon-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 ![Julien's GitHub stats](https://github-readme-stats.vercel.app/api?username=julienawon&show_icons=true&hide=contribs,prs&count_private=true&theme=merko)
