@@ -6,10 +6,9 @@
 <a href="https://auth.geeksforgeeks.org/user/julienawon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="julienawon" height="30" width="40" /></a>
 <a href="https://discord.gg/qpuuzSHQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qpuuzSHQ" height="30" width="40" /></a>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=26F746&width=500&height=100&lines=A+passionate+web+developer+;and+data+scientist+from+Morroco)](https://git.io/typing-svg)
 
-## My Streak 🔥
-[![GitHub Streak](https://streak-stats.demolab.com?user=julienawon&theme=neon-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on **Machine learning**
 
@@ -18,6 +17,10 @@
 - 💬 Ask me about **Laravel, Machine learning.**
 
 - 📫 How to reach me **julienawon@outlook.com**
+
+
+## My Streak 🔥
+[![GitHub Streak](https://streak-stats.demolab.com?user=julienawon&theme=neon-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
  ## Languages & Tools
