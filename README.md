@@ -18,7 +18,6 @@
 - 💬 Ask me about **Laravel, Machine learning.**
 
 - 📫 How to reach me **julienawon@outlook.com**
-- 
 
 
  ## Languages & Tools
