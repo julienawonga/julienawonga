@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **julienawon@outlook.com**
 - 
-![Julien's GitHub stats](https://github-readme-stats.vercel.app/api?username=julienawon&show_icons=true&hide=contribs,prs&count_private=true&theme=dark)
+![Julien's GitHub stats](https://github-readme-stats.vercel.app/api?username=julienawon&show_icons=true&hide=contribs,prs&count_private=true&theme=merko)
 
 ---
 
