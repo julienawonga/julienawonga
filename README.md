@@ -81,6 +81,7 @@
   </a> 
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=julienawon&theme=neon-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ---
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=julienawon&show_icons=true&locale=en&layout=compact" alt="julien-aw" /></p>
-[GitHub Streak](https://streak-stats.demolab.com?user=julienawon&theme=neon-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=julienawon&show_icons=true&locale=en&layout=compact" alt="julien-aw" /></p>
