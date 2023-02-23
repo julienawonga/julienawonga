@@ -17,7 +17,6 @@ On my GitHub profile, you can find interesting projects I have worked on and con
 <a href="https://linkedin.com/in/julienawon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julienawon" height="30" width="40" /></a>
 <a href="https://kaggle.com/julienawonga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="julienawonga" height="30" width="40" /></a>
 <a href="https://instagram.com/julien.awon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="julien.aw_" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/julienawon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="julienawon" height="30" width="40" /></a>
 <a href="https://discord.gg/qpuuzSHQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qpuuzSHQ" height="30" width="40" /></a>
 
 - 🔭 I’m currently working on **Machine learning**
