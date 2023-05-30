@@ -15,4 +15,4 @@ On my GitHub profile, you can find interesting projects I have worked on and con
 
 
 ## My Current Stats ⚡
-![Julien's GitHub stats](https://github-readme-stats.vercel.app/api?username=julienawon&show_icons=true&count_private=true&theme=merko) 
+![Julien's GitHub stats](https://github-readme-stats.vercel.app/api?username=julienawon&show_icons=true&count_private=true&theme=transparent) 
