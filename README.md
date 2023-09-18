@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Julien and I'm a AI & Big Data Student, from ....</h2>
+<h2 align="left">Hi 👋! My name is Julien and I'm a AI & Big Data Student, Current studing in morocco</h2>
 
 ###
 
