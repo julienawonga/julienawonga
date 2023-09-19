@@ -20,7 +20,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/gifs/KeepCoding-developer-dev-programmer-vLpclx5lofmqnEswm0"  />
+<div style="width:100%;height:0;padding-bottom:50%;position:relative;"><iframe src="https://giphy.com/embed/vLpclx5lofmqnEswm0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/KeepCoding-developer-dev-programmer-vLpclx5lofmqnEswm0">via GIPHY</a></p>
 
 ###
 
