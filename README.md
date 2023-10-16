@@ -63,8 +63,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/julienawonga/julienawonga/output/snake.svg" alt="Snake animation" />
-
-###
