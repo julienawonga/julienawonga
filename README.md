@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Big data projects<br>👯 I’m looking to collaborate on cloud architecture<br>🤝 I’m looking for help with data enginnering<br>🌱 I’m currently learning Hadoop<br>💬 Ask me about EveryThing<br>⚡ Fun fact, I love cats
+🔭 I’m currently working on Big data projects<br>👯 I’m looking to collaborate on cloud architecture<br>🤝 I’m looking for help with data enginnering<br>🌱 I’m currently learning Hadoop<br>💬 Ask me about EveryThing<br>⚡ Fun fact, I love cats and 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
