@@ -1,1 +1,1 @@
-<h1 align="center">Hey 👋 I'm Julian AWON'GA, AI/ML , Data engineer & Cloud Architect</h1>
+<h1 align="center">I'm Julien, AI/ML , Data engineer & Cloud Architect</h1>
